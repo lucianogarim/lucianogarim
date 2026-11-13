@@ -87,14 +87,6 @@ Reviewer for *Scientific Reports*, *Computational Geosciences*, *Journal of Appl
 
 ---
 
-## 📊 Languages Across My Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianogarim&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=420" alt="Top languages">
-</p>
-
----
-
 ## 🎓 Education
 
 | Degree | Field | Institution | Year |
