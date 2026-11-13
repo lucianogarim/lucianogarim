@@ -1,11 +1,19 @@
-<h1 align="center">Hi, I'm Luciano Garim! 👋</h1>
-
-<h3 align="center"><code>PhD in Applied Computing | AI Researcher in Geosciences</code></h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:2EA043&height=210&section=header&text=Luciano%20Garim&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=PhD%20in%20Applied%20Computing%20%7C%20AI%20Researcher%20in%20Geosciences&descAlignY=57&descSize=17" alt="">
 
 <p align="center">
-  Machine Learning, Generative AI and 3D Geological Modeling<br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=2EA043&center=true&vCenter=true&width=760&height=45&lines=Machine+Learning+applied+to+Geosciences;Generative+AI+for+well-log+and+geochemical+data;3D+Geological+Modeling+and+Stratigraphic+Simulation" alt="">
+</p>
+
+<p align="center">
   Researcher at <b>MGEN</b> (Center of Excellence in Geological and Numerical Modeling), <b>UNISINOS</b><br>
   Postdoctoral Researcher in Geophysics and Artificial Intelligence, <b>UNIFESP</b>
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?hl=pt-BR&user=pSELeS4AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://www.linkedin.com/in/luciano-garim-b1856a197/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://lattes.cnpq.br/9422054729661920"><img src="https://img.shields.io/badge/Lattes-00A86B?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes"></a>
+  <a href="mailto:lucianogarim@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -13,28 +21,43 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,matlab,git,github,latex,docker,linux&theme=dark" alt="Tech stack">
 </p>
 
 ---
 
 ## 🔬 Research Interests
 
-- **Geochemically Informed Machine Learning:** models that embed geochemical constraints into the architecture and the loss function, instead of treating rock data as generic tables.
-- **Generative AI for Well-Log Data:** Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs) for data augmentation and log reconstruction on imbalanced datasets.
-- **Compositional Data:** predicting compositional outputs with and without log-ratio transformations.
-- **Stratigraphic Modeling:** forward simulation of carbonate facies using fuzzy logic, genetic algorithms and geostatistics.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Geochemically Informed ML
+Models that embed geochemical constraints into the architecture and the loss function, instead of treating rock data as generic tables.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌀 Generative AI for Well Logs
+Generative Adversarial Networks and Variational Autoencoders for data augmentation and log reconstruction on imbalanced datasets.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📐 Compositional Data
+Predicting compositional outputs with and without log-ratio transformations.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗻 Stratigraphic Modeling
+Forward simulation of carbonate facies using fuzzy logic, genetic algorithms and geostatistics.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,20 +87,21 @@ Reviewer for *Scientific Reports*, *Computational Geosciences*, *Journal of Appl
 
 ---
 
-## 🎓 Education
+## 📊 Languages Across My Repositories
 
-- **PhD** in Applied Computing, UNISINOS, 2026
-- **MSc** in Computer Engineering, FURG, 2017
-- **Graduate Certificate** in Big Data, Data Science and Data Analytics, UNISINOS, 2021
-- **BSc** in Applied Mathematics, FURG, 2014
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianogarim&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=420" alt="Top languages">
+</p>
 
 ---
 
-## 📫 Get in Touch
+## 🎓 Education
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luciano-garim-b1856a197/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://scholar.google.com/citations?hl=pt-BR&user=pSELeS4AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://lattes.cnpq.br/9422054729661920"><img src="https://img.shields.io/badge/Lattes-00A86B?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes"></a>
-  <a href="mailto:lucianogarim@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+| Degree | Field | Institution | Year |
+|:---|:---|:---|:---|
+| PhD | Applied Computing | UNISINOS | 2026 |
+| MSc | Computer Engineering | FURG | 2017 |
+| Graduate Certificate | Big Data, Data Science and Data Analytics | UNISINOS | 2021 |
+| BSc | Applied Mathematics | FURG | 2014 |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,55:1F6FEB,100:0D1117&height=120&section=footer" alt="">
